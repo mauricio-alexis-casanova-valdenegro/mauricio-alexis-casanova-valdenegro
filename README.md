@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **R, SQL**
 
-- 💬 Ask me about **Python, pandas, seaborn, scikit-learn, latex**
+- 💬 Ask me about **Python, Pandas, Seaborn, Plotly, Scikit-Learn, SciPy, TensorFlow, PyTorch, LaTeX**
 
 - 📫 How to reach me **mauricio.casanova.v@gmail.com**
 
